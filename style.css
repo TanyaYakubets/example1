@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     font-family: "Open Sans", sans-serif;
+    min-width: 1170px;
 }
 ul{
     list-style: none;
